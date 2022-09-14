@@ -4,4 +4,4 @@ let percent = document.getElementsByClassName('percent')
 let grades = {
        {"percent": "100%"}
  };
-
+let  basicsend = "XMLHttpRequest"
