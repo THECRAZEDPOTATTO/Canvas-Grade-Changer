@@ -6,4 +6,6 @@ let D = "65%"
 let F = "30%"
 var grade = A //set grade
 console.log("Setting Grade: "+grade)
-//SERVER SIDED
+for(var i=0;i < percent.length; i++){
+   console.log(texts[i].textContent);
+}
