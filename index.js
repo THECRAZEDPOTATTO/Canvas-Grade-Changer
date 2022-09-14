@@ -5,7 +5,8 @@ let D = "65%"
 let F = "30%"
 var grade = A //set grade
 console.log("Setting Grade: "+grade)
-var percent = document.getElementsByClassName('abc');
-for(var i=0;i < percent.length; i++){
-   console.log(percent[i].text);
+var texts = document.getElementsByClassName('precent');
+
+for(var i=0;i < texts.length; i++){
+   console.log(texts[i].textContent);
 }
