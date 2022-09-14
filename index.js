@@ -7,3 +7,17 @@ let D = "65%"
 let F = "30%"
 var grade = A //set grade
 console.log(grade)
+//SERVER SIDED
+
+
+
+
+
+
+
+
+
+
+
+
+//CLIENT SIDED
