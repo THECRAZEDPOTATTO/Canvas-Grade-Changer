@@ -1,7 +1,4 @@
 var texts = document.getElementsByClassName('percent');
-for(var i=0;i < texts.length; i++){
-   console.log(texts[i].textContent);
-}
 let A = "100%"
 let B = "80%"
 let C = "70%"
