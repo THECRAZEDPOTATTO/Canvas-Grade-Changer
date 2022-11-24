@@ -20,3 +20,4 @@ else{
   document.getElementsByClassName('percent')[i].innerHTML = grade;}//Client Side Change
 }
 
+// Use with tamper Monke
